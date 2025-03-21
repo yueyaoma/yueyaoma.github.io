@@ -6,7 +6,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://yueyaoma.github.io"
   },
   "keywords": [
     "yueyaoma",
@@ -15,7 +14,6 @@
   "author": "yueyaoma",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dmego/home.github.io/issues"
   },
-  "homepage": "https://github.com/dmego/home.github.io#readme"
+  "homepage": "https://yueyaoma.github.io#readme"
 }
